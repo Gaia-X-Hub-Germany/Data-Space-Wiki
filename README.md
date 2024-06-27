@@ -1,4 +1,6 @@
-Link zu [GXDCH](./gxdch)
+Link zu [GXDCH](./gxdch.md)
+Link zu [GXDCH](https://gaia-x-hub-germany.github.io/dataspacewiki/gxdch)
+Link zu [GXDCH](https://gaia-x-hub-germany.github.io/dataspacewiki/gxdch.md)
 
 
 # Digitale Identitäten in Datenräumen
