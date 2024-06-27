@@ -1,10 +1,6 @@
-Link zu [GXDCH](./gxdch.md)
-Link zu [GXDCH](https://gaia-x-hub-germany.github.io/dataspacewiki/gxdch)
-Link zu [GXDCH](https://gaia-x-hub-germany.github.io/dataspacewiki/gxdch.md)
 
-[Neuer Link](https://gaia-x-hub-germany.github.io/dataspacewiki/GXDCH)
-[Neuer Link](./GXDCH)
-[Neuer Link](./gxdch)
+[Link GXDCH](./GXDCH)
+<a href="./GXDCH" target="_blank">Link GXDCH Neuer Tab</a>
 
 
 
