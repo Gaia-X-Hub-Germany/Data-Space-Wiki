@@ -1,8 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
----
-
 [Link GXDCH](./GXDCH)
 <a href="./GXDCH" target="_blank">Link GXDCH Neuer Tab</a>
 
