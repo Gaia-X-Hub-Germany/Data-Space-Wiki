@@ -1,9 +1,3 @@
-[Link GXDCH](./GXDCH)
-<a href="./GXDCH" target="_blank">Link GXDCH Neuer Tab</a>
-
-
-
-
 # Digitale Identitäten in Datenräumen
 
 ## Hintergrund
