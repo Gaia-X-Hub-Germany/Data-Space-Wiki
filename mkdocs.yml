@@ -1,2 +1,14 @@
 site_name: Dataspace Wiki
-theme: material
+theme:
+  name: material
+  language: en
+extra:
+  social:
+    - icon: material/github
+      link: https://github.com/Gaia-X-Hub-Germany/dataspacewiki
+    - icon: material/link
+      link: https://gaia-x-hub.de/en/
+    - icon: material/linkedin
+      link: https://www.linkedin.com/company/gaia-x-hub-germany/
+copyright: |
+  &copy; 2024 <a href="https://www.linkedin.com/company/gaia-x-hub-germany/"  target="_blank" rel="noopener">Gaia-X Hub Germany</a>
